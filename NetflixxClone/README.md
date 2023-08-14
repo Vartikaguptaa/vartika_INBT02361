@@ -1,6 +1,6 @@
 I understand that the clone-based project created by me is intended solely for educational purposes.
 
-It is an attractive and appealing design, built using HTML and CSS.
+It has an attractive and appealing design, built using HTML and CSS.
 
 # Demo Screenshots
 
